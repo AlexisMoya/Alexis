@@ -1,3 +1,16 @@
-.productos-brand{
-    color: #ea6927;
+#estilo{
+    color: chocolate ;
+    text-align: center;
+    font-family: "Latin Modern Roman 10";
+        font-style: oblique;
+}s
+#mm{
+    color: rgb(16, 95, 6);
+    text-align: center;
+}
+#texto{
+    color: rgb(35, 13, 163);
+    text-align: center;
+    font-family: "Latin Modern Roman 10";
+        font-style: oblique;
 }
